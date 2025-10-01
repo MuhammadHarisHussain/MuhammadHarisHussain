@@ -1,5 +1,12 @@
-# 💫 About Me:
-👨‍🎓 AI student passionate about learning and exploring intelligent systems<br><br>🌱 Currently building skills in Machine Learning, Deep Learning, and Data Science<br><br>🔭 Working on projects to apply AI concepts in real-world scenarios<br><br>🤝 Open to collaborating on research and open-source AI projects<br><br>📂 Interested in areas like Computer Vision, NLP, and MLOps<br><br>⚡ Believe in continuous learning, problem-solving, and innovation
+# About Me
+​A passionate and dedicated Artificial Intelligence student currently building expertise across Machine Learning (ML), Deep Learning (DL), and Data Science. My focus is on transitioning theoretical knowledge into tangible results by developing and deploying AI concepts within real-world applications.
+​Areas of Focus
+​I am keenly interested in specialized domains within AI, including:
+​Computer Vision
+​Natural Language Processing (NLP)
+​MLOps (Machine Learning Operations)
+​Collaboration & Philosophy
+​I actively seek opportunities to collaborate on research and open-source AI projects. My work is guided by a commitment to continuous learning, robust problem-solving, and technological innovation.
 
 
 ## 🌐 Socials:
